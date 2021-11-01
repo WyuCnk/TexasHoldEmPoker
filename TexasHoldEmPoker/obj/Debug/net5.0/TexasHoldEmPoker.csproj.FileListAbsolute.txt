@@ -1,0 +1,16 @@
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\bin\Debug\net5.0\TexasHoldEmPoker.exe
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\bin\Debug\net5.0\TexasHoldEmPoker.deps.json
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\bin\Debug\net5.0\TexasHoldEmPoker.runtimeconfig.json
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\bin\Debug\net5.0\TexasHoldEmPoker.runtimeconfig.dev.json
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\bin\Debug\net5.0\TexasHoldEmPoker.dll
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\bin\Debug\net5.0\ref\TexasHoldEmPoker.dll
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\bin\Debug\net5.0\TexasHoldEmPoker.pdb
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\obj\Debug\net5.0\TexasHoldEmPoker.csproj.AssemblyReference.cache
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\obj\Debug\net5.0\TexasHoldEmPoker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\obj\Debug\net5.0\TexasHoldEmPoker.AssemblyInfoInputs.cache
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\obj\Debug\net5.0\TexasHoldEmPoker.AssemblyInfo.cs
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\obj\Debug\net5.0\TexasHoldEmPoker.csproj.CoreCompileInputs.cache
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\obj\Debug\net5.0\TexasHoldEmPoker.dll
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\obj\Debug\net5.0\ref\TexasHoldEmPoker.dll
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\obj\Debug\net5.0\TexasHoldEmPoker.pdb
+D:\Code\C#\TexasHoldEmPoker\TexasHoldEmPoker\obj\Debug\net5.0\TexasHoldEmPoker.genruntimeconfig.cache
